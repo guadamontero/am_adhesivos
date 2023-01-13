@@ -1,13 +1,120 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/* COLORES */
+:root {
+  --color-principal: #ed1c24;
+  --color-secundario: #5a427e;
+  --color-3: #606060;
+  --color-4: #263238;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body,
+p {
+  margin: 0;
+  padding: 0;
+  font-family: "Be Vietnam Pro", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-3);
+  position: relative;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+.iconSocialMedia {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 1px solid var(--color-secundario);
+  height: 1.5em;
+  width: 1.5em;
+}
+
+.activeContact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--color-principal);
+  border-radius: 50px;
+  width: 113px;
+  height: 40px;
+  color: var(--color-principal);
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-principal);
+  border: 1px solid var(--color-principal);
+  border-radius: 50px;
+  width: 113px;
+  height: 40px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.activeLink {
+  color: var(--color-principal);
+  position: relative;
+}
+
+.activeLink:after {
+  content: "";
+  background-color: var(--color-principal);
+  height: 1.5px;
+  width: 20px;
+  position: absolute;
+  top: 20px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  transition: ease-in 0.2s;
+}
+
+.link {
+  color: var(--color-3);
+  border-bottom: 1px solid #fff;
+}
+
+.link:after {
+  content: "";
+  background-color: var(--color-principal);
+  height: 1.5px;
+  width: 0;
+  position: absolute;
+  top: 20px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  transition: ease-in 0.2s;
+}
+
+.link:hover {
+  color: var(--color-principal);
+  transition: 0.3s;
+}
+
+.link:hover:after {
+  width: 20px;
+}
+
+@media only screen and (min-width: 624px) {
+  .iconSocialMedia {
+    border: 1px solid #fff;
+    height: 1.8em;
+    width: 1.8em;
+  }
 }

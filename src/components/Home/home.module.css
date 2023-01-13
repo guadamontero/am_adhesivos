@@ -1,0 +1,64 @@
+.heroe img{
+    width: 100%;
+}
+
+.title {
+    font-weight: 300;
+    font-size: 18px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 1rem;
+    overflow: hidden;
+}
+
+.title span {
+    color: var(--color-principal);
+    font-weight: 700;
+}
+
+.subtitle {
+    display: flex;
+    text-align: right;
+    margin: 0 1rem 0 8rem;
+    left: 168px;
+    overflow: hidden;
+}
+
+.subtitle p {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+@media only screen and (min-width: 624px) {
+    .container {
+      margin: 1rem 2rem;
+    }
+
+    .title {
+        font-weight: 300;
+        font-size: 30px;
+        display: flex;
+        justify-content: flex-end;
+        margin: 0.5rem 2rem 0 3rem;
+    }
+
+    .subtitle {
+        display: flex;
+        justify-content: flex-end;
+        margin: 0 3rem;
+    }
+
+    .subtitle p {
+        font-size: 20px;
+    }
+
+
+  }
+  
+  @media only screen and (min-width: 769px) {
+    .container {
+      margin: 1rem 3rem;
+    }
+  
+
+  }

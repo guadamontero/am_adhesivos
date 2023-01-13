@@ -1,0 +1,172 @@
+.history {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 5rem auto;
+}
+
+.timeline {
+  height: 2px;
+  width: 80vw;
+  background-color: var(--color-principal);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dot {
+  border-radius: 50%;
+  height: 0.6em;
+  width: 0.6em;
+  background-color: var(--color-principal);
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+/* .dot:hover {
+  transform: scale(1.2);
+  transition: all 0.2s;
+} */
+
+.right {
+  margin: 1rem 0;
+  font-size: 12px;
+}
+
+.left {
+  margin: 1rem 0;
+  font-size: 12px;
+}
+
+/* -------------HISTORY YEAR------------- */
+
+.historyYear {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.descriptionYears {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  margin: 2rem;
+  align-items: center;
+}
+
+.text > p {
+  line-height: 30px;
+  font-weight: 300;
+  font-size: 14px;
+  color: var(--color-3);
+}
+
+.text > h2 {
+  font-size: 20px;
+  padding: 1rem 0;
+}
+
+.text > h2 > span {
+  color: var(--color-principal);
+}
+
+.descriptionYears > img {
+  width: 100%;
+}
+
+.historyYear .images {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.images > img {
+  width: 40%;
+}
+
+/* -------------HISTORY 1999------------- */
+
+@media only screen and (min-width: 624px) {
+  .history {
+    display: flex;
+    justify-content: flex-end;
+    margin: 2rem 8rem;
+  }
+
+  .timeline {
+    height: 80vh;
+    width: 2px;
+    background-color: var(--color-principal);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+  }
+
+  .dot {
+    height: 0.7em;
+    width: 0.7em;
+    display: block;
+  }
+
+  .dot:after {
+    height: 1em;
+    width: 1em;
+  }
+
+  .right {
+    margin-top: -0.5rem;
+    margin-left: 1.5rem;
+    font-size: 14px;
+  }
+
+  .left {
+    margin-top: -0.5rem;
+    margin-left: -3rem;
+    font-size: 14px;
+  }
+
+  .descriptionYears > img {
+    width: 80%;
+  }
+
+  /* -------------HISTORY 1985------------- */
+
+  .historyYear {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 1rem;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  .historyYear {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 4rem;
+  }
+
+  .history {
+    display: flex;
+    justify-content: flex-end;
+    margin: 2rem 8rem;
+  }
+
+  .images > img {
+    width: 30%;
+  }
+
+  .descriptionYears > img {
+    width: 50%;
+  }
+
+}
