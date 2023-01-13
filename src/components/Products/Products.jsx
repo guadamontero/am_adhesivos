@@ -14,7 +14,7 @@ const Products = () => {
         exit={{ opacity: 1 }}
         transition={{ duration: 0.75, ease: "easeOut" }}
       >
-        
+        "holis"
       </m.section>
     </FilterContextProvider>
   );
