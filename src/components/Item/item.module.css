@@ -1,0 +1,136 @@
+.itemDetail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem 1.5rem;
+}
+
+.itemImg,
+.itemText {
+  width: 100%;
+}
+
+.itemImg {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.itemText p {
+  padding: 3rem 0;
+  width: 100%;
+  line-height: 25px;
+  text-align: justify;
+  font-weight: 300;
+  font-size: 15px;
+}
+
+
+.itemImg img {
+  width: 280px;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 30px;
+}
+
+.itemText h3 {
+  color: var(--color-3);
+  opacity: 0.6;
+  font-size: 16px;
+  letter-spacing: 2px;
+  padding: 0.5rem 0;
+  font-weight: 600;
+}
+
+.itemText h2 {
+  color: var(--color-4);
+  font-weight: 900;
+  font-size: 24px;
+  padding-bottom: 1rem;
+}
+
+.iconList {
+  color: var(--color-principal);
+  font-size: 1.4em;
+}
+
+.iconsContainer {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.whatsapp {
+  background-color: var(--color-principal);
+  width: 250px;
+  height: 31px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 15px;
+  border: none;
+  margin-bottom: 1.5rem;
+}
+
+.whatsapp button {
+  border: none;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  font-weight: 500;
+  font-size: 14px;
+  font-family: "Be Vietnam Pro", sans-serif;
+  cursor: pointer;
+}
+
+.iconWhatsapp {
+  font-size: 1.3em;
+}
+
+@media only screen and (min-width: 624px) {
+  .itemText p {
+    width: 80%;
+  }
+
+  .itemDetail {
+    padding: 5rem;
+  }
+
+  .itemImg img {
+    width: 514px;
+    height: 514px;
+  }
+
+  .itemImg {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 1rem;
+  }
+
+  .itemDetail {
+    padding: 3.5rem 1.5rem;
+  }
+  
+.whatsapp {
+  background-color: var(--color-principal);
+  width: 180px;
+  height: 31px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 15px;
+  border: none;
+  margin-bottom: 1.5rem;
+}
+}
+
+@media only screen and (min-width: 769px) {
+  .itemDetail {
+    flex-direction: row;
+  }
+}

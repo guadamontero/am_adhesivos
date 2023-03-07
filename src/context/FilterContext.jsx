@@ -8,7 +8,7 @@ const FilterContextProvider = ({ children }) => {
   );
 
   const [selectedCategory, setSelectedCategory] = useState({
-    title: null,
+    name: null,
   });
 
   const [valuesForm, setValuesForm] = useState({
@@ -18,17 +18,14 @@ const FilterContextProvider = ({ children }) => {
   const filterHandlers = {
     handleClearCategory: () => {
       setSelectedCategory({
-        title: null,
+        name: null,
         id: null,
       });
     },
     handleClearProduct: () => {
-      setValuesForm((prevState) => {
-        return {
-          ...prevState,
-          product: null,
-          id: null,
-        };
+      setValuesForm({
+        product: null,
+        id: null,
       });
       setSelectedProduct("¿Que producto desear buscar?");
     },

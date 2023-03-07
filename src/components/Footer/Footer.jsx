@@ -1,6 +1,6 @@
 import React from "react";
 import Icon from "../Global/Icon";
-import SocialNetworks from '../Header/menuDrawer/SocialNetworks';
+import SocialNetworks from "../Header/menuDrawer/SocialNetworks";
 import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
 import styles from "./footer.module.css";
 
@@ -22,7 +22,7 @@ const Footer = () => {
         </div>
         <div className={styles.socialNetworks}>
           <SocialNetworks />
-      </div>
+        </div>
       </div>
     </footer>
   );

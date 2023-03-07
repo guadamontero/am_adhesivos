@@ -1,0 +1,46 @@
+.iconPagination {
+    color: var(--color-secundario);
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  .containerPagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.5rem;
+    background-color: var(--color-2);
+  }
+  
+  .itemPagination {
+    padding: 0.3rem;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  .itemPagination:hover {
+    color: var(--color-principal);
+  }
+  
+  .itemLinkPagination {
+    padding: 0.5rem;
+    font-weight: 700;
+    color: #065656;
+  }
+  
+  .activePagination {
+    color: var(--color-principal);
+  }
+
+  @media screen and (min-width: 768px) {
+    .containerPagination {
+      background-color: var(--color-2-transparency);
+    }
+    .itemLinkPagination {
+      color: var(--color-2);
+    }
+    .activePagination {
+      background-color: var(--color-3-opacity);
+    }
+  }

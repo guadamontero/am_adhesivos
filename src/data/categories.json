@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Cantos",
+    "img": "images/categorias/Cantos.svg"
+  },
+  {
+    "id": 2,
+    "name": "Selladores",
+    "img": "images/categorias/Selladores.svg"
+  },
+  {
+    "id": 3, 
+    "name": "Pistolas",
+    "img": "images/categorias/pistolas.svg"
+  },
+  {
+    "id": 4,
+    "name": "Espumas",
+    "img": "images/categorias/Espuma.svg"
+  },
+  {
+    "id": 5,
+    "name": "Vinilicos",
+    "img": "images/categorias/vinilicos.svg"
+  }
+]

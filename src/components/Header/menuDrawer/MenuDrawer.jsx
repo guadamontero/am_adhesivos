@@ -2,7 +2,7 @@ import React from "react";
 import SocialNetworks from "./SocialNetworks";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
-import styles from './menuDrawer.module.css'
+import styles from "./menuDrawer.module.css";
 import { faXmark } from "@fortawesome/free-solid-svg-icons";
 import Button from "../../Global/Button";
 import Icon from "../../Global/Icon";
@@ -11,10 +11,9 @@ const NavbarWrapper = styled.nav`
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  text-align: right;
-  background-color: white;
-  color: var(--color-2);
-  box-shadow: 0px 4px 10px lightgrey;
+  background-color: var(--color-secundario);
+  color: white;
+  box-shadow: 0px 4px 10px grey;
   font-size: 12px;
   font-weight: 700;
   line-height: 300%;
@@ -34,8 +33,12 @@ const NavbarWrapper = styled.nav`
 `;
 
 const MenuDrawer = ({ open, handleClick }) => {
+  const closeMenu = () => {
+    handleClick();
+  };
+
   return (
-    <NavbarWrapper open={open}>
+    <NavbarWrapper open={open} className={styles.container}>
       <div className={styles.divMenu}>
         <Button
           css={styles.btnWrapper}
@@ -45,30 +48,30 @@ const MenuDrawer = ({ open, handleClick }) => {
       </div>
 
       <div className={styles.productos}>
-        <Link to="/productos">
+        <Link to="/productos" onClick={closeMenu}>
           <p>Productos</p>
         </Link>
       </div>
       <div className={styles.nosotros}>
-        <Link to="/nosotros">
+        <Link to="/nosotros" onClick={closeMenu}>
           <p>Nosotros</p>
         </Link>
       </div>
 
       <div className={styles.historia}>
-        <Link to="/historia/1985">
+        <Link to="/historia/1985" onClick={closeMenu}>
           <p>Historia</p>
         </Link>
       </div>
 
       <div className={styles.contacto}>
-        <Link to="/contacto">
+        <Link to="/contacto" onClick={closeMenu}>
           <p>Contacto</p>
         </Link>
       </div>
 
       <div className={styles.footerMenu}>
-        <SocialNetworks color={"var(--color-secundario)"} />
+        <SocialNetworks />
       </div>
     </NavbarWrapper>
   );

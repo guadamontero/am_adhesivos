@@ -1,42 +1,58 @@
 [
   {
     "id": 1,
-    "name": "Sellador Arcilico"
+    "name": "Sellador Arcilico",
+    "category": "Selladores",
+    "img": "/images/productos/sellante-acrilico.jpg",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
   },
   {
     "id": 2,
-    "name": "Pegafuerte"
+    "name": "Sellador Multiuso",
+    "category": "Selladores",
+    "img": "/images/productos/sellante-multiuso.jpg",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
   },
   {
-    "id": 3, 
-    "name": "Sellante Multiuso"
+    "id": 3,
+    "name": "Sellador Poliuretano",
+    "category": "Selladores",
+    "img": "/images/productos/sellante-poliuretano.jpg",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
   },
   {
     "id": 4,
-    "name": "Pur 351"
+    "name": "Streech",
+    "category": "Varios",
+    "img": "/images/productos/streech.jpg",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
   },
   {
     "id": 5,
-    "name": "Pistola para selladores"
+    "name": "Adhesivo Acuoso",
+    "category": "Adhesivo Acuoso",
+    "img": "/images/productos/adhesivo-acuoso.jpg",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
   },
   {
     "id": 6,
-    "name": "Espuma Expansiva"
+    "name": "Cola Fria",
+    "category": "Vinilicos",
+    "img": "/images/productos/cola-fria.jpg",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
   },
   {
     "id": 7,
-    "name": "Sellador Arcilico"
+    "name": "Espuma",
+    "category": "Espumas",
+    "img": "/images/productos/espuma.jpg",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
   },
   {
     "id": 8,
-    "name": "Pegafuerte"
-  },
-  {
-    "id": 9,
-    "name": "Sellante Multiuso"
-  },
-  {
-    "id": 10,
-    "name": "Pur 351"
+    "name": "Hotmelt Amarillo",
+    "category": "Hotmelt",
+    "img": "/images/productos/hotmelt-amarilllo.jpg",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
   }
 ]

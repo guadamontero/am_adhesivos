@@ -8,6 +8,10 @@
   --color-4: #263238;
 }
 
+ul {
+  list-style: none;
+}
+
 body,
 p {
   margin: 0;
@@ -30,9 +34,10 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  border: 1px solid var(--color-secundario);
-  height: 1.5em;
-  width: 1.5em;
+  border: 1px solid white;
+  height: 1.7em;
+  width: 1.7em;
+  cursor: pointer;
 }
 
 .activeContact {
@@ -111,10 +116,50 @@ h1, h2, h3, h4, h5, h6 {
   width: 20px;
 }
 
+.loader-container{
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  position: fixed;
+  z-index: 10000000;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-secundario);
+}
+
+.loader-img {
+  width: 200px;
+  animation: fade 3s ease-in infinite;
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  30% {
+    opacity: 1;
+  }
+  60% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
 @media only screen and (min-width: 624px) {
   .iconSocialMedia {
     border: 1px solid #fff;
     height: 1.8em;
     width: 1.8em;
   }
+  .loader-img {
+    width: 250px;
+  }
+}
+
+button {
+  background-color: transparent;
 }

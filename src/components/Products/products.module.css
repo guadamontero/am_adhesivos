@@ -1,0 +1,25 @@
+.container {
+  margin: 1rem;
+}
+
+.title {
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.title > span {
+  font-weight: 500;
+  color: var(--color-principal);
+}
+
+@media only screen and (min-width: 624px) {
+  .container {
+    margin: 1rem 2rem;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  .container {
+    margin: 1rem 3rem;
+  }
+}

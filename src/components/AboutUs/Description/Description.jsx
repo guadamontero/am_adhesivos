@@ -12,18 +12,7 @@ const Description = () => {
         </div>
         <div className={styles.textContent}>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
-            ipsum deleniti ducimus ratione ab accusamus distinctio animi, vel
-            delectus deserunt iste! Tempora quos maxime distinctio sit
-            reiciendis ipsum est earum quisquam! Alias placeat aspernatur
-            pariatur tempora ad ipsa neque a quos. Excepturi maiores quisquam
-            error molestiae aliquid iure quae ab soluta sint architecto, esse
-            illum, quos laboriosam ex cumque hic voluptate perferendis, dolores
-            enim expedita. Similique laborum facere, aliquam nemo dolorem eum
-            blanditiis ipsam maxime unde eaque obcaecati officiis doloribus
-            placeat magnam est saepe quisquam! Sapiente voluptatibus, ad,
-            perspiciatis eius nobis quas saepe error odit atque earum officiis
-            voluptates sit!
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur magni laudantium sunt modi? Beatae eveniet reprehenderit tempore dolore nemo voluptas quo velit minima similique quibusdam temporibus cumque, sed iusto fugit omnis exercitationem. Qui doloribus excepturi accusamus obcaecati nobis eos exercitationem quidem eaque aliquam necessitatibus consequuntur sequi, modi asperiores totam nisi debitis, minus at quaerat dolor nesciunt? Esse, ex obcaecati saepe, eum corporis itaque beatae ipsa praesentium dolorem laudantium dolores deserunt commodi facilis perspiciatis at dolorum debitis minus officia ad soluta vero, impedit architecto? Doloribus nobis incidunt culpa perspiciatis, vero ipsum quaerat quidem non, dolorem accusamus distinctio velit voluptates nisi enim.
           </p>
         </div>
       </div>
