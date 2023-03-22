@@ -40,12 +40,12 @@ const History = () => {
           2002
         </NavLink>
         <NavLink
-          to="/historia/2013"
+          to="/historia/2005"
           className={({ isActive }) =>
             isActive ? activeLinkClassName : notActiveLinkClassName
           }
         >
-          2013
+          2005
         </NavLink>
         <NavLink
           to="/historia/2020"

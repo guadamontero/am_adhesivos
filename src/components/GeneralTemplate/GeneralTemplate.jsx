@@ -42,7 +42,7 @@ const GeneralTemplate = () => {
             <Route path="/historia/1985" element={<History1985 />} />
             <Route path="/historia/1999" element={<History1999 />} />
             <Route path="/historia/2002" element={<History2002 />} />
-            <Route path="/historia/2013" element={<History2013 />} />
+            <Route path="/historia/2005" element={<History2013 />} />
             <Route path="/historia/2020" element={<History2020 />} />
             <Route path="/historia/2023" element={<History2023 />} />
             <Route path="/contacto" element={<Contact />} />

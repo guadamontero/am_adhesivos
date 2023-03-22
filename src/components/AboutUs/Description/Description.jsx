@@ -12,7 +12,11 @@ const Description = () => {
         </div>
         <div className={styles.textContent}>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur magni laudantium sunt modi? Beatae eveniet reprehenderit tempore dolore nemo voluptas quo velit minima similique quibusdam temporibus cumque, sed iusto fugit omnis exercitationem. Qui doloribus excepturi accusamus obcaecati nobis eos exercitationem quidem eaque aliquam necessitatibus consequuntur sequi, modi asperiores totam nisi debitis, minus at quaerat dolor nesciunt? Esse, ex obcaecati saepe, eum corporis itaque beatae ipsa praesentium dolorem laudantium dolores deserunt commodi facilis perspiciatis at dolorum debitis minus officia ad soluta vero, impedit architecto? Doloribus nobis incidunt culpa perspiciatis, vero ipsum quaerat quidem non, dolorem accusamus distinctio velit voluptates nisi enim.
+            Somos dos hermanos, hijos de Horacio Montero que juntos creamos AM Adhesivos. 
+            <br />
+            Damos soluciones a todos sus pegados, ofreciendo servicios de asesoramiento, distribución, pruebas de pegados, entre otros.
+            <br />
+            Llevamos soluciones rápidas y favorables para aumentar la productivdad de tu empresa.
           </p>
         </div>
       </div>

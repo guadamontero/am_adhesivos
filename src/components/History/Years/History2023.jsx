@@ -1,8 +1,7 @@
 import React from "react";
 import History from "../History";
 import styles from "../history.module.css";
-import horacio from "../../../assets/horacio.png";
-import kuka from "../../../assets/Kuka.png";
+import socios from "../../../assets/actualidad.jpg";
 
 import { motion as m } from "framer-motion";
 
@@ -16,27 +15,20 @@ const History2023 = () => {
         exit={{ opacity: 0 }}
         transition={{ duration: 0.75, ease: "easeOut" }}
       >
-        <div className={styles.images}>
-          <img src={horacio} alt="horacio" />
-          <img src={kuka} alt="kuka" />
-        </div>
+        <img src={socios} alt="socios" />
         <div className={styles.text}>
           <h2>
-            In id imperdiet lorem. <span>Praesent</span> ut.
+            <span>Hoy</span> en día
           </h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam,
-            culpa dicta aliquid provident vitae facere fugiat temporibus
-            consequuntur mollitia ullam iure nam placeat sapiente blanditiis
-            libero animi laboriosam iste non veritatis totam laborum rerum!
-            Harum itaque perspiciatis vero iusto quasi aut modi repudiandae,
-            quia minima nihil voluptates quo ab, adipisci molestiae veniam,
-            illum mollitia? Officiis fugiat id magnam nostrum veritatis culpa,
-            expedita tenetur. Perspiciatis, sequi mollitia facere totam
-            obcaecati minus accusantium rem maiores, pariatur voluptates ex
-            quidem rerum cum at! Accusantium, vel! Reprehenderit aut ipsum vero
-            doloribus ducimus obcaecati autem, exercitationem cumque quis velit
-            porro unde quos nihil itaque cupiditate.
+            Luego de la pandemia Artecola renueva su imagen y además empieza a
+            cambiar sus líneas y marcas por Afix, llevando a esta nueva marca a
+            empezar a hacerse un lugar en los mercados de construcción y de las
+            góndolas directas para tener productos de excelente performance.
+            Esto impulso las ventas y crecimiento de AM Adhesivos.
+            <br />
+            Seguimos creciendo juntos y dando soluciones a las nuevas
+            necesidades de nuestros clientes.
           </p>
         </div>
       </m.div>

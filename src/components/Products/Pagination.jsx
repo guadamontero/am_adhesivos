@@ -38,6 +38,8 @@ const Pagination = ({ itemsPerPage }) => {
     if (product) {
       filteredItems = filteredItems.filter((item) => item.id === product);
     }
+    // Shuffle the items array
+    // filteredItems.sort(() => Math.random() - 0.5);
     setItems(filteredItems);
   }, [allItems, category, product]);
 

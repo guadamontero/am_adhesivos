@@ -2,7 +2,7 @@ import React from "react";
 import History from "../History";
 
 import styles from "../history.module.css";
-import image1985 from "../../../assets/1985.jpg";
+import image1985 from "../../../assets/Abuelo.jpg";
 
 import { motion as m } from "framer-motion";
 
@@ -19,21 +19,11 @@ const History1985 = () => {
         <img src={image1985} alt="1985" />
         <div className={styles.text}>
           <h2>
-            In id imperdiet lorem. <span>Praesent</span> ut.
+            Los comienzos de <span>AM Adhesivos</span>
           </h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam,
-            culpa dicta aliquid provident vitae facere fugiat temporibus
-            consequuntur mollitia ullam iure nam placeat sapiente blanditiis
-            libero animi laboriosam iste non veritatis totam laborum rerum!
-            Harum itaque perspiciatis vero iusto quasi aut modi repudiandae,
-            quia minima nihil voluptates quo ab, adipisci molestiae veniam,
-            illum mollitia? Officiis fugiat id magnam nostrum veritatis culpa,
-            expedita tenetur. Perspiciatis, sequi mollitia facere totam
-            obcaecati minus accusantium rem maiores, pariatur voluptates ex
-            quidem rerum cum at! Accusantium, vel! Reprehenderit aut ipsum vero
-            doloribus ducimus obcaecati autem, exercitationem cumque quis velit
-            porro unde quos nihil itaque cupiditate.
+          Nuestra historia empezó allá por la década del 80, cuando Horacio Montero Padre junto a la firma Química Madepa, Refinerias de Maíz y JC Tudela empezaron a comercializar todos sus adhesivos vinilicos, hotmelt, etc. Desde entonces nos ha dejado el legado de seguir atendiendo a la industra tal como el lo hizo durante muchos años como gerente de Refinerías de Maíz.
+          Luego Horacio Montero Padre se jubila de Refinerías de Maíz y se dedica a la representación y distribución de los adhesivos que comerzalizan las empresas mencionadas.
           </p>
         </div>
       </div>

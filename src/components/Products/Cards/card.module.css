@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
-  width: 350px;
+  width: 320px;
   height: 471px;
   border-radius: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -56,7 +56,7 @@
   color: white;
   position: absolute;
   bottom: 5%;
-  width: 330px;
+  width: 280px;
   height: 40px;
   cursor: pointer;
 }
@@ -95,19 +95,20 @@
   .cardRight {
     padding: 0 1rem;
     gap: 0.3rem;
-    width: 52%;
+    width: 60%;
   }
 
   .cardLeft {
-    width: 45%;
+    width: 60%;
   }
 
   .description {
     height: 100px;
   }
+  
   .cardImg {
-    width: 100%;
-    height: 100%;
+    width: 320px;
+    height: 290px;
     object-fit: cover;
   }
 }

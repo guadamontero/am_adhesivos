@@ -1,58 +1,416 @@
 [
   {
     "id": 1,
-    "name": "Sellador Arcilico",
-    "category": "Selladores",
-    "img": "/images/productos/sellante-acrilico.jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
+    "name": "Hotmelt Artemelt 1820 E",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/artemelt-1820.jpg",
+    "description": "Pegado de bordes rectos de papel, lamina de madera y PVC, PET, PS, ABS y fórmica (HPL). Este adhesivo es indicado para pegar bordes rectos de madera, papel, laminados melamínicos, ABS, PS, PVC e PET sobre aglomeración, MDF o madera, en encoladoras de bordes de media velocidad.",
+    "instructions": ""
   },
   {
     "id": 2,
-    "name": "Sellador Multiuso",
-    "category": "Selladores",
-    "img": "/images/productos/sellante-multiuso.jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
+    "name": "Hotmelt Artemelt 1824 E",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/artemelt-1824.jpg",
+    "description": "El Adhesivo Artemelt 1824E es un adhesivo en presentación de esferas sólidas, de apariencia color beige. Es indicado para trabajar en equipos (máquinas) manuales; la temperatura adecuada de trabajo oscila entre los 140 y 160°C.s aplicado para la Industria de Madera y Muebles."
   },
   {
     "id": 3,
-    "name": "Sellador Poliuretano",
-    "category": "Selladores",
-    "img": "/images/productos/sellante-poliuretano.jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
+    "name": "Hotmelt Artemelt 1840 E",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/artemelt-1840.jpg",
+    "description": "Artemelt 1840 es un adhesivo hot melt termoplástico a base de etilenovinilacetato (EVA), resinas sintéticas, cargas minerales y aditivos especiales.  Este adhesivo es indicado para encolar bordes recto de papel, madera, laminas melamínicos, PVC, ABS, PS, PP, PET y madera en MDP, MDF y madera, utilizando en coladores de bordes de medio y alta velocidad."
   },
   {
     "id": 4,
-    "name": "Streech",
-    "category": "Varios",
-    "img": "/images/productos/streech.jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
+    "name": "Pistola para Salchichas",
+    "category": "Construcción",
+    "img": "/images/productos/pistola-salchichas.jpg",
+    "description": "Pistola aplicadora, cuerpo de aluminio de alta resistencia, empuñadora anatomica de aluminio, cuerpo giratorio, apta para polurietanos."
   },
   {
     "id": 5,
-    "name": "Adhesivo Acuoso",
-    "category": "Adhesivo Acuoso",
-    "img": "/images/productos/adhesivo-acuoso.jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
+    "name": "Pistola Squeletor",
+    "category": "Construcción",
+    "img": "/images/productos/pistola-squeletor.jpg",
+    "description": "Mango aleación. Aluminio; gatillo de acero. Punzon de cartucho y gancho de escalera. Empuje 9:1."
   },
   {
     "id": 6,
-    "name": "Cola Fria",
-    "category": "Vinilicos",
-    "img": "/images/productos/cola-fria.jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
+    "name": "Adhesivo Pur 351",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/adhesivo-pur-351.jpg",
+    "description": "Adhesivo de un solo componente para una fácil aplicación que se endurece con la humedad, su principal aplicación es la laminación. Proporciona pegados de alto rendimiento. Tiene una excelente resistencia a las altas temperaturas. Aplicaciones principales: laminación, pegado de puertos y ventanas, zócalos, bancos, sillas y muebles en general, paneles de construcción, madera en general."
   },
   {
     "id": 7,
-    "name": "Espuma",
-    "category": "Espumas",
-    "img": "/images/productos/espuma.jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
+    "name": "Sellador Acrílico",
+    "category": "Construcción",
+    "img": "/images/productos/sellante-acrilico.jpg",
+    "description": "Sellante Acrílico Afix, especial para el sellado de marcos de puertas y ventanas a muro, bordes, uniones de esquinas y molduras, fisuras, grietas y zócalos. Es una línea ecológica, es amigable con el medio ambiente, no es inflamable y seguro para su uso en interiores. El sellante Acrílico, es resistente al agua y puede ser pintado."
   },
   {
     "id": 8,
-    "name": "Hotmelt Amarillo",
-    "category": "Hotmelt",
+    "name": "Pegafuerte",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/pegafuerte.jpg",
+    "description": "Afix Pegafuerte Cola fría extra es un adhesivo acuoso multiuso, con un práctico pincel aplicador para trabajos manuales, artesanía y reparación. Adhesivo formulado para el pegado de maderas en general, papeles, cartones, telas, armado de maquetas, y trabajos escolares."
+  },
+  {
+    "id": 9,
+    "name": "Film Stretch",
+    "category": "Papel y Embalaje",
+    "img": "/images/productos/streech.jpg",
+    "description": "Rollo Film stretch transparente. Viene en 3 presentaciones: Film de 10cm x 0,5 kgs, Film de 50cm x 4,5kgs y Film con mango x 2,3 kgs."
+  },
+  {
+    "id": 10,
+    "name": "Espuma Poliuretanica",
+    "category": "Construcción",
+    "img": "/images/productos/espuma.jpg",
+    "description": "Espuma autoexpansible de poliuretano, para relleno y fijación con gran poder de aislación térmica y acústica. Para sellado de puertas, ventanas relleno entre muros, juntas de dilatación y expansión, aislación de estudios musicales, aislación en techos, espacios entre cañerías, etc."
+  },
+  {
+    "id": 11,
+    "name": "Silicona Multiuso",
+    "category": "Construcción",
+    "img": "/images/productos/silicona-multiuso.jpg",
+    "description": "100% silicona, de cura neutra y de alta performance. cuando se cura, pega, sella y aísla la mayor parte de los materiales. Flexible y resistente al agua."
+  },
+  {
+    "id": 12,
+    "name": "Sellador Poliuretanico",
+    "category": "Construcción",
+    "img": "/images/productos/sellante-poliuretano.jpg",
+    "description": "Es un sellador elastómero monocomponente a base de poliuretano. Polimeriza rápidamente al contacto con la humedad del aire, se transforma en una junta flexible y resistente, con una excelente adherencia a la mayoría de los materiales tradicionales de la construcción. Puede utilizarse para pegar y sellar: hormigón, madera, aluminio, metal laqueado, poliéster, vidrio, PVC, tejas, placas de hormigón, piedra, cerámico, loza. Se aplica con una pistola manual o neumática en soportes limpios y secos, desengrasados, a temperaturas entre 5 y 35°C."
+  },
+  {
+    "id": 13,
+    "name": "Cola Fría Madera Rápida",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/cola-fria.jpg",
+    "description": "Cola fría profesional, RESISTENTE A LA HUMEDAD y de secado ULTRA RÁPIDO. Ideal para unión de maderas expuestas a la intemperie."
+  },
+  {
+    "id": 14,
+    "name": "Hotmelt para encuadernación",
+    "category": "Papel y Embalaje",
     "img": "/images/productos/hotmelt-amarilllo.jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus quisquam totam reprehenderit minus obcaecati qui, velit libero voluptatibus voluptatem rerum quibusdam dolorum recusandae maiores quae fugit. Temporibus dolor minus accusamus! Ut beatae nobis commodi placeat aperiam corrupti eos dignissimos, officia enim aut non totam qui? Voluptatibus est dignissimos eum corporis."
+    "description": "Adhesivo para el armado de libros y revistas."
+  },
+  {
+    "id": 15,
+    "name": "Hotmelt Sensitivo a la presión ",
+    "category": "Papel y Embalaje",
+    "img": "/images/productos/hotmelt-transparente.jpg",
+    "description": "Adhesivo para armado de pañales, etiquetado"
+  },
+  {
+    "id": 16,
+    "name": "Hotmelt en barra",
+    "category": "Papel y Embalaje",
+    "img": "/images/productos/hotmelt-pistola.jpg",
+    "description": "Color transparente: adhesivo para pegados comunes. Color ambar: para cerrado de cajas. Color blanco: con un 30% de caucho para pegados de mas resistencia. Para pistolas de 7mm y 12mm encoladora eléctrica."
+  },
+  {
+    "id": 17,
+    "name": "Pistola Hotmelt Barra",
+    "category": "Papel y Embalaje",
+    "img": "/images/productos/pistola.png",
+    "description": "Pistola Aplicadora Hot Melt Industrial 80 Watts. Aplicadores manuales de 20-60-100-180-200-300 y 400W"
+  },
+  {
+    "id": 18,
+    "name": "Adhesivo Artecol 504",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/artecol504.png",
+    "description": "Adhesivo de alta fuerza adhesiva para trabajos especiales y generales en carpintería, fabricación de placard, muebles en general y todo tipo de artículos de madera. Su uso es aconsejado para el encolado de machimbre, espigas y juntas de cabeza, enchapado de placas y aglomerados."
+  },
+  {
+    "id": 19,
+    "name": "Adhesivo Artecol 513",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/artecol513.png",
+    "description": "Pistola Aplicadora Hot Melt Industrial 80 Watts. Aplicadores manuales de 20-60-100-180-200-300 y 400W"
+  },
+  {
+    "id": 20,
+    "name": "Cinta Polipropileno",
+    "category": "Papel y Embalaje",
+    "img": "/images/productos/cinta-polipropileno.png",
+    "description": "Cinta de polipropileno para sellar cajas de cartón y aplicaciones múltiples. Para utilizar en máquinas automáticas para cerrar cajas."
+  },
+  {
+    "id": 21,
+    "name": "Cinta Doble Faz",
+    "category": "Papel y Embalaje",
+    "img": "/images/productos/cinta-doble-faz.jpg",
+    "description": "Cinta de papel crepeado de alta adhesión para empalmar, sujetar, rotular, etc."
+  },
+  {
+    "id": 22,
+    "name": "Cinta de enmascarar",
+    "category": "Papel y Embalaje",
+    "img": "/images/productos/cinta-enmascarar.jpg",
+    "description": "Excelente adhesión y conformado a superficies irregulares. Apta cabinas c/horno. Resiste 90° C durante 1 hora. Test de transferencia de adhesivo: La cinta es aplicada de acuerdo con la norma PSTC-1 sobre un panel pintado el cual es puesto dentro de un horno durante una hora a 90 grados centígrados. Cuando el tiempo se cumple, la mitad del largo de la cinta de prueba se retira mientras está caliente. El resto se retira 24 hs después. Ninguna mancha o resto de adhesivo debe quedar sobre la superficie."
+  },
+  {
+    "id": 23,
+    "name": "Cantos de Madera",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/cantos-de-madera.jpg",
+    "description": "Se utiliza la chapa de madera como materia prima seleccionando calidad A+ certificada por nuestros proveedores para la elaboración de tapacantos. Contamos con un amplio stock de chapas nacionales e importadas tales como: NACIONALES Guatambú, Pino, Sabugueiro, Paraiso, Cedro, Lenga, Peteriby. IMPORTADAS Caoba, Haya, Cedro, Jequitiba, Cerezo Americano, Goiabao, Cerejeira y Curupixa (Cedrillo)."
+  },
+  {
+    "id": 24,
+    "name": "Cantos de Melamina",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/cantos-de-melamina.jpg",
+    "description": "Anchos estándar: 22mm, 30mm y 50mm. Realizamos cortes a medida hasta 300mm. OPCIONES DE PRESENTACIÓN: Sin adhesivo: Utilizados para máquinas pegadoras automáticas o semiautomáticas con colero integrado. Presentación: Rollos enteros por 400ml o fraccionado por 100ml. Preencolado: Ideal para el pegado manual. Se recubre el canto con adhesivo termo-fusible con base EVA el cual pude ser pegado con plancha, pistola de calor o máquinas manuales para preencolado. Presentación: Rollos enteros por 400ml o fraccionado por 50ml. OPCIONES DE ACABADOS: Lisos, Textura perlada, Woodpore (simil madera), Woodline (simil nature, touch), Hilados."
+  },
+  {
+    "id": 25,
+    "name": "Cantos de Pvc",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/cantos-de-pvc.jpg",
+    "description": "Fabricados con Policloruro de Vinilo de alta calidad. Los cantos de PVC son la mejor elección a la hora de priorizar resistencia y calidad para las terminaciones del mueble. Anchos estándar: 22mm, 29mm y 50mm. Realizamos cortes a medida hasta 300mm. Espesores: 0.40mm – 1.00mm – 2.00mm. OPCIONES DE PRESENTACIÓN: Sin adhesivo: Utilizados para máquinas pegadoras automáticas o semiautomáticas con colero integrado.Presentación: Rollos enteros por 400ml o fraccionado por 100ml. Preencolado: Ideal para el pegado manual. Se recubre el canto con adhesivo termo-fusible con base EVA el cual pude ser pegado con pistola de calor o máquinas manuales para preencolado. Presentación: Rollos enteros por 300ml o fraccionado por 50ml. OPCIONES DE ACABADOS: Lisos, Textura perlada, Woodpore (simil madera), Woodline (simil nature, touch), Hilados"
+  },
+  {
+    "id": 26,
+    "name": "Tapa Tornillos",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/tapa-tornillos.jpg",
+    "description": "Fabricados con Policloruro de Vinilo de alta calidad. Los tapa tornillo de PVC son la mejor elección a la hora de priorizar resistencia y calidad para las terminaciones del mueble. OPCIONES DE ACABADOS: Lisos, Textura perlada, Woodpore (simil madera), Woodline (simil nature, touch), Hilados."
+  },
+  {
+    "id": 27,
+    "name": "Correderas telescópicas",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/correderas-telescopicas.jpg",
+    "description": "Apertura total de cajón. Espesor de metal 1.2 – 1.2 – 1.2 mm. 45kg. de capacidad de carga por par. Rodamiento de bolillas de acero. Colores Zincado blanco / Zincado negro. Desmontaje de cajón por medio de clip de retención.Packaging 15 pares.​"
+  },
+  {
+    "id": 28,
+    "name": "Correderas cierre suave",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/correderas-cierre-suave.jpg",
+    "description": "Apertura total de cajón. Espesor de metal 1.2 – 1.2 – 1.2 mm. 45kg. de capacidad de carga por par. Rodamiento de bolillas de acero. Colores Zincado blanco / Zincado negro. Desmontaje de cajón por medio de clip de retención. Sistema Soft Closing de cierre de cajón amortiguado. Packaging 15 pares.​"
+  },
+  {
+    "id": 29,
+    "name": "Correderas push open",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/correderas-push-open.jpg",
+    "description": "Apertura total de cajón. Espesor de metal 1.2 – 1.2 – 1.2 mm. 45kg. de capacidad de carga por par. Rodamiento de bolillas de acero. Colores Zincado blanco / Zincado negro. Desmontaje de cajón por medio de clip de retención. Sistema Push Open de apertura automática de cajón. Packaging 15 pares.​"
+  },
+  {
+    "id": 30,
+    "name": "Correderas telescópicas mini",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/correderas-telescopicas-mini.jpg",
+    "description": "Apertura total de cajón. Espesor de metal 1.2 – 1.2 – 1.2 mm. 45kg. de capacidad de carga por par. Rodamiento de bolillas de acero. Colores Zincado blanco / Zincado negro. Desmontaje de cajón por medio de clip de retención. Sistema Push Open de apertura automática de cajón. Packaging 15 pares.​"
+  },
+  {
+    "id": 31,
+    "name": "Correderas ocultas slim",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/sistema-lateral-slim.jpg",
+    "description": "Nuevo sistema slim cierre suave sincronizado + mayor aprovechamiento de espacio del cajón​.​"
+  },
+  {
+    "id": 32,
+    "name": "Correderas ocultas cierre suave",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/correderas-ocultas-cierre-suave.jpg",
+    "description": "Apertura total de cajón. 30kg. de capacidad máxima de carga por par. Rodamiento de bolillas de acero. Desmontaje de cajón mediante soportes de zinc aleado. Espesor metal: 1.8 x 1.5 x 1.2 mm. Packaging: 10 pares.​​"
+  },
+  {
+    "id": 33,
+    "name": "Correderas ocultas cierre suave + push open",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/correderas-ocultas-cierre-suave-push-open.jpg",
+    "description": "Apertura total de cajón. 30kg. de capacidad máxima de carga por par. Rodamiento de bolillas de acero. Desmontaje de cajón mediante soportes de zinc aleado. Espesor metal: 1.8 x 1.5 x 1.2 mm. Packaging: 10 pares.​"
+  },
+  {
+    "id": 34,
+    "name": "Correderas Comunes tipo Z",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/correderas-comunes-tipo-Z.jpg",
+    "description": "Espesor 0.9 mm. Pintura Epoxi de alta resistencia. Dimensiones 250 mm – 550 mm. Colores blanco / negro. 25 kg. de capacidad de carga máxima por par. Sistema de rodamiento silencioso, único en el mercado. Packaging 20 pares.​"
+  },
+  {
+    "id": 35,
+    "name": "Bisagra Doble Acción",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/bisagra-doble-accion.jpg",
+    "description": "Base 4 agujeros. Bisagra cazoleta 35mm. Nueva base, Más resistente. Codo 0, 9 y 18 mm.​"
+  },
+  {
+    "id": 36,
+    "name": "Bisagra Acción light",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/bisagra-doble-accion-light.jpg",
+    "description": "Base 4 agujeros. Bisagra cazoleta 35mm versión Light. Nueva base, más resistente. Codo 0, 9 y 18 mm.​"
+  },
+  {
+    "id": 37,
+    "name": "Bisagra Doble Acción Mini",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/bisagra-mini.jpg",
+    "description": "Bisagra cazoleta 26mm Mini. Nueva versión más pesada. Codo 0, 9 y 18 mm.​"
+  },
+  {
+    "id": 38,
+    "name": "Bisagra Cierre suave Base 3D",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/bisagra-cierre-suave-ajuste-3d.jpg",
+    "description": "Base 3D con regulación en 3 direcciones. Únicas doble acción. Codo 0, 9 y 18 mm.​"
+  },
+  {
+    "id": 39,
+    "name": "Bisagra Cierre Suave Two ways",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/bisagra-cierre-suave-two-ways.jpg",
+    "description": "Únicas doble acción. Nueva base más resistente. Codo 0, 9 y 18 mm.​"
+  },
+  {
+    "id": 40,
+    "name": "Rinconera 175°",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/bisagra-rinconera-175-4A.jpg",
+    "description": "Bisagra rinconera 175°. Montaje Clip On. Base 4 agujeros.​"
+  },
+  {
+    "id": 41,
+    "name": "Rinconera 135°",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/bisagra-rinconera-135.jpg",
+    "description": "Bisagra cazoleta intermedia de 135° para puerta rinconera.​"
+  },
+  {
+    "id": 42,
+    "name": "Rinconera 180°",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/correderas-comunes-tipo-Z.jpg",
+    "description": "Bisagra rinconera 180°. Única con sistema cierre suave. Montaje Clip On. Base 4 agujeros.​"
+  },
+  {
+    "id": 43,
+    "name": "Bisagra Cazoleta Aluminio",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/bisagra-aluminio-cierre-suave.jpg",
+    "description": "Bisagra cazoleta especial para perfil de aluminio 20/20, cierre suave. Base de 4 agujeros.​"
+  },
+  {
+    "id": 44,
+    "name": "Bisagra Push Open Par + Retén",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/bisagra-push-open-reten.jpg",
+    "description": "Set de par de bisagras más Retén Áuch Latch y tornillos incluidos.​"
+  },
+  {
+    "id": 45,
+    "name": "Bisagra Pilastra Ángulo ciego",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/bisagra-pilastra.jpg",
+    "description": " Montaje sobre frente falso que permite prescindir de laterales. Sistema de doble acción que evita el golpe y la desregulación de la puerta. Permiten regular la puerta en tres dimensiones. Sistema slide-on. Diseño que asegura el montaje de la puerta al cuerpo del mueble por deslizamiento.​"
+  },
+  {
+    "id": 46,
+    "name": "Pistón a gas",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/piston-a-gas.jpg",
+    "description": "Pistón a gas – 3 accesorios. 5 fuerzas disponibles. 60-80-100-120 newton.​​"
+  },
+  {
+    "id": 47,
+    "name": "Pistón a gas con cobertor",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/piston-a-gas-con-cobertor.jpg",
+    "description": "Pistón a gas con cobertor. 2 fuerzas disponibles. 3 accesorios.​"
+  },
+  {
+    "id": 48,
+    "name": "Pistón a gas cierre suave",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/piston-a-gas-cierre-suave.jpg",
+    "description": "Pistón a gas con cierre suave incluido. Disponible en 60-80-100-120-150 newton.​"
+  },
+  {
+    "id": 49,
+    "name": "Pistón fuerza invertida",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/piston-a-gas-fuerza-invertida.jpg",
+    "description": "3 colores Negro / niquel.​"
+  },
+  {
+    "id": 50,
+    "name": "Pistón a gas corto",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/piston-a-gas-corto.jpg",
+    "description": "5 fuerzas disponibles. 60-80-100-120 newton.​​"
+  },
+  {
+    "id": 51,
+    "name": "Elevador de ropa",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/elevador-de-ropa.jpg",
+    "description": "Con sistema cierre suave. Medidas disponibles: 60-83 cm. GWER6083. 83-115 cm. GWER83115.​​"
+  },
+  {
+    "id": 52,
+    "name": "Cerradura",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/cerradura.jpg",
+    "description": "Caja de 12 unidades. Box 240 unidades. Llave entera, 2 unidades. Colores Niquel o Negro. Medidas 22mm GWCE22ZE, 32mm GWCE32ZE. Roseta de cilindro incluida.​​"
+  },
+  {
+    "id": 53,
+    "name": "Soporte de estante 5×5",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/soporte-de-estante-5×5.jpg",
+    "description": "Soporte metálico para estante o muebles. De 5mm Zincado​"
+  },
+  {
+    "id": 54,
+    "name": "Colgador de alacena",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/colgador-de-alacena.jpg",
+    "description": "COD. GWSE02B – Blanco. COD. GWSE02N – Negro. COD. GWSE02M – Marrón. COD. GWSE02G – Gris.​​"
+  },
+  {
+    "id": 55,
+    "name": "Perchero gancho tipo gota doble",
+    "category": "Madera y Muebles",
+    "img": "/images/productos/perchero-gancho-tipo-gota-doble.jpg",
+    "description": "Caja de 12 unidades. Box 240 unidades. Llave entera, 2 unidades. Colores Niquel o Negro. Medidas 22mm GWCE22ZE, 32mm GWCE32ZE. Roseta de cilindro incluida.​​"
+  },
+  {
+    "id": 56,
+    "name": "Adhesivo Acuoso papel y embalaje",
+    "category": "Papel y Embalaje",
+    "img": "/images/productos/adhesivo-acuoso.jpg",
+    "description": "ARTECOL PVA 03: Fabricación de Lijas y pegados de estuches​.\nARTECOL PVA 05: Fabricación de adhesivos. \nARTECOL PVA 453: Fabricación de estuches. \nARTECOL PVA 483: Fabricación de estuches. \nARTECOL PVA 493: Pegado de lomos de cuadernos. \nARTECOL PVA 4207: Fabricación de esquineros de cartón. \nARTECOL PVA 600: Fabricación de agendas. \nARTECOL PVA 662: Armado de Bolsas y Bosolnes de papel Kraft. \nARTECOL PVA 665: Fabricación de Moldes para budines y tortas. \nARTECOL PVA 667: Cerrado de Estuches y etiquetado de saquitos de Té. \nARTECOL PVA 670: Fabricación de Estuches. \nARTECOL PVA 681: Fabricación de Moldes para budines y tortas. \nARTECOL PVA 7202/5: Fabricación de tubos espiralados"
+  },
+  {
+    "id": 57,
+    "name": "Adhesivo Acuoso maderas y muebles",
+    "category": "Papel y Embalaje",
+    "img": "/images/productos/adhesivo-acuoso.jpg",
+    "description": "ARTECOL PVA 1204: Fabricación de finger-joints, paneles en prensa fría, caliente y RF. "
+  },
+  {
+    "id": 58,
+    "name": "Tambor x 200kgs",
+    "category": "Papel y Embalaje",
+    "img": "/images/productos/tambor.jpg",
+    "description": "Presentación para adhesivo acuoso: tambor de 200kgs"
+  },
+  {
+    "id": 59,
+    "name": "Contenedor x 1000kgs",
+    "category": "Papel y Embalaje",
+    "img": "/images/productos/contenedor.jpg",
+    "description": "Presentación para adhesivo acuoso: contenedor de 1000kgs"
   }
 ]

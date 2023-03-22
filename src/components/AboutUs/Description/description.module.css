@@ -21,20 +21,20 @@
 
 .textTitle {
     padding-bottom: 1rem;
-    border-bottom: 1px solid var(--color-principal);
     overflow: hidden;
+    border-bottom: 1px solid var(--color-secundario);
 }
 
 .textTitle h3 {
-    font-weight: 500;
-    font-size: 20px;
-    color: var(--color-principal);
+    font-weight: 600;
+    font-size: 28px;
+    color: var(--color-secundario);
 }
 
 .textContent {
     font-weight: 300;
-    line-height: 35px;
-    font-size: 14px;
+    line-height: 40px;
+    font-size: 17px;
 }
 
 

@@ -5,7 +5,7 @@
   --color-principal: #ed1c24;
   --color-secundario: #5a427e;
   --color-3: #606060;
-  --color-4: #263238;
+  --color-4: #333;
 }
 
 ul {
@@ -132,6 +132,10 @@ h1, h2, h3, h4, h5, h6 {
 .loader-img {
   width: 200px;
   animation: fade 3s ease-in infinite;
+}
+
+.carousel {
+  width: 100vw;
 }
 
 @keyframes fade {

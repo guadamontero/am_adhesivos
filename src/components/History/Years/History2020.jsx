@@ -1,7 +1,7 @@
 import React from "react";
 import History from "../History";
 import styles from "../history.module.css";
-import image2020 from "../../../assets/2020.png";
+import image2020 from "../../../assets/covid19.jpg";
 
 import { motion as m } from "framer-motion";
 
@@ -18,21 +18,10 @@ const History2020 = () => {
         <img src={image2020} alt="2020" />
         <div className={styles.text}>
           <h2>
-            In id imperdiet lorem. <span>Praesent</span> ut.
+            Llegó la <span>pandemia</span>
           </h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam,
-            culpa dicta aliquid provident vitae facere fugiat temporibus
-            consequuntur mollitia ullam iure nam placeat sapiente blanditiis
-            libero animi laboriosam iste non veritatis totam laborum rerum!
-            Harum itaque perspiciatis vero iusto quasi aut modi repudiandae,
-            quia minima nihil voluptates quo ab, adipisci molestiae veniam,
-            illum mollitia? Officiis fugiat id magnam nostrum veritatis culpa,
-            expedita tenetur. Perspiciatis, sequi mollitia facere totam
-            obcaecati minus accusantium rem maiores, pariatur voluptates ex
-            quidem rerum cum at! Accusantium, vel! Reprehenderit aut ipsum vero
-            doloribus ducimus obcaecati autem, exercitationem cumque quis velit
-            porro unde quos nihil itaque cupiditate.
+            Se vivió un año de recesión, trabajamos como proovedores indispensables ya que comerzalizamos para la industria alimenticia. Dado a la pandemia bajaron las ventas pero igualmente salimos adelante junto con los clientes.
           </p>
         </div>
       </m.div>

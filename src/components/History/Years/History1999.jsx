@@ -1,7 +1,7 @@
 import React from "react";
 import History from "../History";
 import styles from "../history.module.css";
-import image1999 from "../../../assets/1999.png";
+import image1999 from "../../../assets/logo.png";
 
 import { motion as m } from "framer-motion";
 
@@ -18,21 +18,10 @@ const History1999 = () => {
         <img src={image1999} alt="1999" />
         <div className={styles.text}>
           <h2>
-            In id imperdiet lorem. <span>Praesent</span> ut.
+            <span>Fundación</span> de la empresa
           </h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam,
-            culpa dicta aliquid provident vitae facere fugiat temporibus
-            consequuntur mollitia ullam iure nam placeat sapiente blanditiis
-            libero animi laboriosam iste non veritatis totam laborum rerum!
-            Harum itaque perspiciatis vero iusto quasi aut modi repudiandae,
-            quia minima nihil voluptates quo ab, adipisci molestiae veniam,
-            illum mollitia? Officiis fugiat id magnam nostrum veritatis culpa,
-            expedita tenetur. Perspiciatis, sequi mollitia facere totam
-            obcaecati minus accusantium rem maiores, pariatur voluptates ex
-            quidem rerum cum at! Accusantium, vel! Reprehenderit aut ipsum vero
-            doloribus ducimus obcaecati autem, exercitationem cumque quis velit
-            porro unde quos nihil itaque cupiditate.
+            En el año 1999 creamos la Sociedad de Hecho Horacio Montero (H) y María Irene Montero. A partir de ese año somos representantes de Artecola Argentina y paralelamente distribuimos productos que suelen ir anexados a los distintos mercados.
           </p>
         </div>
       </m.div>

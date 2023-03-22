@@ -23,10 +23,10 @@ const Products = () => {
         <Search />
         <div className={styles.container}>
           <h2 className={styles.title}>
-            Busca por <span>tipo</span> de producto
+            Busca por <span>categoría</span>
           </h2>
           <Categories items={CATEGORIES} />
-          <Pagination itemsPerPage={4}/>
+          <Pagination itemsPerPage={6}/>
         </div>
       </m.section>
     </FilterContextProvider>

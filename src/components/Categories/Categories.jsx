@@ -28,7 +28,6 @@ const Categories = ({ items }) => {
           >
             <Category
               img={category.img}
-              category={category.name}
             />
           </div>
         ))}

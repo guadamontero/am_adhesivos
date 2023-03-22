@@ -38,7 +38,7 @@ const CounterUp = () => {
             )}
             +
           </h2>
-          <p>Presentaciones diferentes</p>
+          <p>Clientes satisfechos</p>
         </div>
       </div>
     </ScrollTrigger>

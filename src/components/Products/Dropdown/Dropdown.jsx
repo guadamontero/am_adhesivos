@@ -20,21 +20,23 @@ const Dropdown = ({ selectedProduct, setSelectedProduct, setIdProduct }) => {
       </div>
       {isActive && (
         <div className={styles.dropdownContent}>
-          {PRODUCTOS.map((producto) => (
-            <div
-              key={producto.id}
-              onClick={() => {
-                setSelectedProduct(producto.name);
-                setIdProduct(producto.id);
-                setIsActive(false);
-              }}
-              className={styles.dropdownItem}
-            >
-              <div className={styles.dropdownItemCity}>
-                <p>{producto.name}</p>
+          {PRODUCTOS.sort((a, b) => a.name.localeCompare(b.name)).map(
+            (producto) => (
+              <div
+                key={producto.id}
+                onClick={() => {
+                  setSelectedProduct(producto.name);
+                  setIdProduct(producto.id);
+                  setIsActive(false);
+                }}
+                className={styles.dropdownItem}
+              >
+                <div className={styles.dropdownItemCity}>
+                  <p>{producto.name}</p>
+                </div>
               </div>
-            </div>
-          ))}
+            )
+          )}
         </div>
       )}
     </div>

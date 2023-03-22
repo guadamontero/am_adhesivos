@@ -1,11 +1,10 @@
 import React, { useEffect } from "react";
 
 import Services from "./Services/Services";
-import BestSellers from "./BestSellers/BestSellers";
 
 import { motion as m } from "framer-motion";
 
-import heroe from "../../assets/heroe.jpg";
+import heroe from "../../assets/productos.jpg";
 import styles from "./home.module.css";
 import WhyUs from "./WhyUs/WhyUs";
 
@@ -36,7 +35,6 @@ const Home = () => {
         </div>
       </div>
       <Services />
-      <BestSellers />
       <WhyUs />
     </m.main>
   );

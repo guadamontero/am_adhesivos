@@ -17,8 +17,8 @@ const WhyUs = () => {
         ¿Por qué <span>AM adhesivos</span>?
       </p>
       <p className={styles.subtitle}>
-        <span>Nos importan</span> nuestros clientes, por eso queremos brindarte
-        un servicio de <span>calidad</span>.
+        Nos importan nuestros clientes, por eso queremos brindarte
+        un servicio de calidad.
       </p>
       <div className={styles.features}>
         <div className={styles.featureContainer}>
@@ -69,7 +69,7 @@ const WhyUs = () => {
           <p className={styles.featureSubtitle}>
             ¿Para qué buscar en diversas marcas? En AM adhesivos somos
             especialistas en pegamentos, siliconas, selladores, cantos y
-            bisagras.
+            herrajes.
           </p>
         </div>
         <div className={styles.featureContainer}>

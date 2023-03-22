@@ -1,7 +1,7 @@
 import React from "react";
 import History from "../History";
 import styles from "../history.module.css";
-import image2002 from "../../../assets/2002.png";
+import image2002 from "../../../assets/crisis2001.jpg";
 
 import { motion as m } from "framer-motion";
 
@@ -18,21 +18,10 @@ const History2002 = () => {
         <img src={image2002} alt="2002" />
         <div className={styles.text}>
           <h2>
-            In id imperdiet lorem. <span>Praesent</span> ut.
+          Superando la <span>crisis</span>
           </h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam,
-            culpa dicta aliquid provident vitae facere fugiat temporibus
-            consequuntur mollitia ullam iure nam placeat sapiente blanditiis
-            libero animi laboriosam iste non veritatis totam laborum rerum!
-            Harum itaque perspiciatis vero iusto quasi aut modi repudiandae,
-            quia minima nihil voluptates quo ab, adipisci molestiae veniam,
-            illum mollitia? Officiis fugiat id magnam nostrum veritatis culpa,
-            expedita tenetur. Perspiciatis, sequi mollitia facere totam
-            obcaecati minus accusantium rem maiores, pariatur voluptates ex
-            quidem rerum cum at! Accusantium, vel! Reprehenderit aut ipsum vero
-            doloribus ducimus obcaecati autem, exercitationem cumque quis velit
-            porro unde quos nihil itaque cupiditate.
+            Superando la crisis del 2001 empezamos a ganar mercados con adhesivos de Artecola tanto para la industria de papel, cerrado de cajas, armado de bolsas, siempre acompañando el crecimiento de los clientes y cambiando a medida de que la tecnología lo vaya requiriendo.
           </p>
         </div>
       </m.div>

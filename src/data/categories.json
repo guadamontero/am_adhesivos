@@ -1,27 +1,17 @@
 [
   {
     "id": 1,
-    "name": "Cantos",
-    "img": "images/categorias/Cantos.svg"
+    "name": "Papel y Embalaje",
+    "img": "images/categorias/papelyembalaje.png"
   },
   {
     "id": 2,
-    "name": "Selladores",
-    "img": "images/categorias/Selladores.svg"
+    "name": "Madera y Muebles",
+    "img": "images/categorias/maderaymuebles.png"
   },
   {
     "id": 3, 
-    "name": "Pistolas",
-    "img": "images/categorias/pistolas.svg"
-  },
-  {
-    "id": 4,
-    "name": "Espumas",
-    "img": "images/categorias/Espuma.svg"
-  },
-  {
-    "id": 5,
-    "name": "Vinilicos",
-    "img": "images/categorias/vinilicos.svg"
+    "name": "Construcción",
+    "img": "images/categorias/construccion.png"
   }
 ]

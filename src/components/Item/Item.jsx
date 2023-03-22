@@ -36,9 +36,9 @@ const Item = ({ props }) => {
                   title={product?.name}
                   category={product?.category}
                 />
-                <a href="/">
+                {/* <a href="../../../public/images/fichas/FICHATECNICA.jpg">
                   <Icon icon={faClipboardList} css={styles.iconList} />
-                </a>
+                </a> */}
               </div>
               <p>{product?.description}</p>
               <ReactWhatsapp
